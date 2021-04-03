@@ -15,12 +15,10 @@ These scripts are used to populate the required database with the values ranges 
 - To install the driver:
   - pip install cassandra-driver
 
-## INSTRUCTIONS
+## Usage
 
-Update cluster configuration in config/config.ini 2. Modify the value ranges as per requirement in config/subscriber_data.xml 3. To run :-
+Update cluster configuration in config/config.ini 2. Modify the value ranges as per requirement in config/subscriber_data.xml 3.
+To run :-
 
-    - For Linux/Unix
-    	- sh run.sh
-
-    - For Windows
-    	- run.bat
+- For Linux/Unix: sh run.sh
+- For Windows: run.bat
