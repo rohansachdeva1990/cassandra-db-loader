@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<subscriberData>
+<!-- 	
+     	<subscribers type ="0" name = "allowed" format = "1%PLACE_HOLDER%000" value ="%PLACE_HOLDER%=100000:599999">
+		<callingSubscribers type ="0" name = "allowed" format = "1_INHERIT_%PLACE_HOLDER%"  value ="%PLACE_HOLDER%=001:999"/>
+        </subscribers>
+    
+  	<subscribers type ="1" name = "blocked" format = "2%PLACE_HOLDER%000"  value ="%PLACE_HOLDER%=100000:599999">
+		<callingSubscribers type ="1" name = "blocked" format = "2_INHERIT_%PLACE_HOLDER%"  value ="%PLACE_HOLDER%=001:999"/>
+	</subscribers>
+ 
+	<subscribers type ="0" name = "dummy-1" format = "7%PLACE_HOLDER%000" value ="%PLACE_HOLDER%=100000:599999">
+		<callingSubscribers type ="0" name = "dummy-1" format = "7_INHERIT_%PLACE_HOLDER%" value ="%PLACE_HOLDER%=001:999"/>
+        </subscribers>
+    
+  	<subscribers type ="1" name = "dummy-2" format = "8%PLACE_HOLDER%000" value ="%PLACE_HOLDER%=100000:599999">
+		<callingSubscribers type ="1" name = "dummy-2" format = "8_INHERIT_%PLACE_HOLDER%" value ="%PLACE_HOLDER%=001:999"/>
+	</subscribers>
+    
+	<subscribers type ="0" name = "dummy-3" format = "9%PLACE_HOLDER%000" value ="%PLACE_HOLDER%=100000:599999">
+		<callingSubscribers type ="0" name = "dummy-3" format = "9_INHERIT_%PLACE_HOLDER%" value ="%PLACE_HOLDER%=001:999"/>
+        </subscribers>
+	
+        <subscribers type ="2" name = "screening-allowed" format = "3%PLACE_HOLDER%000" value ="%PLACE_HOLDER%=100000:599999"/>	
+	<subscribers type ="3" name = "screening-blocked" format = "5%PLACE_HOLDER%000" value ="%PLACE_HOLDER%=100000:599999"/>
+     	<subscribers type ="0" name = "allowed" format = "4013%PLACE_HOLDER%" value ="%PLACE_HOLDER%=000000:249999">
+		<callingSubscribers type ="0" name = "allowed" format = "5019001_INHERIT_%PLACE_HOLDER%"  value ="%PLACE_HOLDER%=000:999"/>
+        </subscribers>
+  	
+	<subscribers type ="1" name = "blocked" format = "4013%PLACE_HOLDER%000"  value ="%PLACE_HOLDER%=250000:499999">
+		<callingSubscribers type ="1" name = "blocked" format = "5019002_INHERIT_%PLACE_HOLDER%"  value ="%PLACE_HOLDER%=000:999"/>
+	</subscribers>
+ -->	
+        
+	<subscribers type ="2" name = "screening-allowed" format = "4011%PLACE_HOLDER%" value ="%PLACE_HOLDER%=000000:999999"/>	
+	<subscribers type ="3" name = "screening-blocked" format = "4012%PLACE_HOLDER%" value ="%PLACE_HOLDER%=000000:999999"/>
+</subscriberData>
